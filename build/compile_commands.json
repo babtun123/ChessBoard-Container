@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/samuelshodiya/Desktop/Programming/CLionCPP/Pro1CS341/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -std=gnu++14 -o CMakeFiles/Pro1CS341.dir/main.cpp.o -c /Users/samuelshodiya/Desktop/Programming/CLionCPP/Pro1CS341/main.cpp",
+  "file": "/Users/samuelshodiya/Desktop/Programming/CLionCPP/Pro1CS341/main.cpp"
+},
+{
+  "directory": "/Users/samuelshodiya/Desktop/Programming/CLionCPP/Pro1CS341/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -std=gnu++14 -o CMakeFiles/Pro1CS341.dir/chessboard.cpp.o -c /Users/samuelshodiya/Desktop/Programming/CLionCPP/Pro1CS341/chessboard.cpp",
+  "file": "/Users/samuelshodiya/Desktop/Programming/CLionCPP/Pro1CS341/chessboard.cpp"
+}
+]
